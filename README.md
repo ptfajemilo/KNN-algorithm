@@ -1,1 +1,2 @@
 # KNN-algorithm
+KNN algorithm is based on feature similarity. I used KNN algorithm to determine if a patient is having diabetes or not. I started with importing necesssary package. The zero numbers are removed and replace by the mean of the common number. I separated the data into training and testing data and also performed scaler standardization. The model was built, followed by prediction and evaluation using confusion matrix.
